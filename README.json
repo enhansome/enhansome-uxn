@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "Zig",
-            "last_commit": "2026-08-08T15:21:18Z",
+            "last_commit": "2026-08-14T15:24:33Z",
             "owner": "chmod222",
             "repo": "zuxn",
             "stars": 35
@@ -75,7 +75,7 @@
             "last_commit": "2023-05-01T07:28:03Z",
             "owner": "DeltaF1",
             "repo": "uxn-lua",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:52:42.565Z",
+    "last_updated": "2026-08-15T10:16:26.629Z",
     "original_repository": "hundredrabbits/awesome-uxn",
     "original_repository_sha": "5b102cffa1c6971a8627a319b1ab070c3bf9256e",
     "enhanced_repository": "enhansome/enhansome-uxn",
