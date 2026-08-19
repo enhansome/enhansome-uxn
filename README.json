@@ -1,822 +1,876 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Recommended for Windows: Uxn32",
+              "description": "Windows emulator, written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 447338612,
+                "language": "C",
+                "last_commit": "2025-12-27T17:35:19Z",
+                "owner": "randrew",
+                "repo": "uxn32",
+                "stars": 278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nux",
+              "description": "Emulator written in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626331109,
+                "language": "Go",
+                "last_commit": "2023-08-11T12:17:20Z",
+                "owner": "nf",
+                "repo": "nux",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zuxn",
+              "description": "A Uxn library, emulator and assembler written in Zig.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 672108254,
+                "language": "Zig",
+                "last_commit": "2026-08-14T15:24:33Z",
+                "owner": "chmod222",
+                "repo": "zuxn",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "buxn",
+              "description": "Multi platform emulator, written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 958601246,
+                "language": "C",
+                "last_commit": "2025-12-30T01:35:10Z",
+                "owner": "bullno1",
+                "repo": "buxn",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UxnLua",
+              "description": "Cross-platform emulator, written in Lua(Love2d).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 411417709,
+                "language": "Lua",
+                "last_commit": "2023-05-01T07:28:03Z",
+                "owner": "DeltaF1",
+                "repo": "uxn-lua",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UxnJulia",
+              "description": "Cross-platform emulator and assembler, written in Julia.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 420382346,
+                "language": "Julia",
+                "last_commit": "2024-03-01T05:33:04Z",
+                "owner": "Ismael-VC",
+                "repo": "Varvara.jl",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uxn9",
+              "description": "Native emulator for 9front. (no audio support)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1018735753,
+                "language": "C",
+                "last_commit": "2026-06-10T12:34:43Z",
+                "owner": "krzysckh",
+                "repo": "uxn9",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uxn-rs",
+              "description": "Emulator written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 704603491,
+                "language": "Rust",
+                "last_commit": "2023-10-13T16:07:26Z",
+                "owner": "Liorst4",
+                "repo": "uxn-rs",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "uxnk",
+              "description": "Emulator written in Kotlin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 715306631,
+                "language": "Kotlin",
+                "last_commit": "2026-03-29T14:14:33Z",
+                "owner": "makohn",
+                "repo": "uxnk",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Desktop"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nintendo DS",
+              "description": "Complete.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 368643879,
+                "language": "C",
+                "last_commit": "2026-03-22T10:06:12Z",
+                "owner": "asiekierka",
+                "repo": "uxnds",
+                "stars": 174
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Game Boy",
+              "description": "Incomplete.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 503108192,
+                "language": "Assembly",
+                "last_commit": "2023-05-09T05:07:39Z",
+                "owner": "tbsp",
+                "repo": "uxngb",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESP32",
+              "description": "Incomplete.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 380778741,
+                "language": "C++",
+                "last_commit": "2023-03-06T22:03:01Z",
+                "owner": "max22-",
+                "repo": "uxn-esp32",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FPGA",
+              "description": "Partial.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 782820356,
+                "language": "Verilog",
+                "last_commit": "2026-02-07T04:55:50Z",
+                "owner": "tsalvo",
+                "repo": "openfpga-varvara",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android",
+              "description": "Complete.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 958601246,
+                "language": "C",
+                "last_commit": "2025-12-30T01:35:10Z",
+                "owner": "bullno1",
+                "repo": "buxn",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS",
+              "description": "Incomplete.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385834358,
+                "language": "Objective-C",
+                "last_commit": "2021-07-20T20:47:13Z",
+                "owner": "kylestew",
+                "repo": "UxniOS",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Logisim",
+              "description": "Incomplete.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 423696683,
+                "language": "M4",
+                "last_commit": "2023-12-11T19:06:07Z",
+                "owner": "DeltaF1",
+                "repo": "uxn-logisim",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RPi",
+              "description": "Partial.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 778557768,
+                "language": "C++",
+                "last_commit": "2024-03-31T21:11:58Z",
+                "owner": "ar-nelson",
+                "repo": "uxnpi",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Teletype",
+              "description": "Incomplete.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 378822554,
+                "language": "C",
+                "last_commit": "2021-06-28T00:44:39Z",
+                "owner": "csboling",
+                "repo": "teluxn",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iOS",
+              "description": "Incomplete.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 391178841,
+                "language": "C",
+                "last_commit": "2024-10-18T20:44:31Z",
+                "owner": "paiv",
+                "repo": "uxn-ios",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "STM32duino",
+              "description": "Incomplete.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 423922166,
+                "language": "C",
+                "last_commit": "2021-11-02T16:39:02Z",
+                "owner": "cassvs",
+                "repo": "arduxno-demo",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IBM PC",
+              "description": "Incomplete.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 387019935,
+                "language": "Python",
+                "last_commit": "2021-08-23T01:28:48Z",
+                "owner": "cr1901",
+                "repo": "pcuxn",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PlayStation Vita",
+              "description": "Incomplete.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 369912263,
+                "language": "C",
+                "last_commit": "2022-11-27T16:06:29Z",
+                "owner": "ivodopiviz",
+                "repo": "uxnvita",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Webuxn",
+              "description": "Lightweight port of the Uxn virtual machine to the web via WebAssembly.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375721384,
+                "language": "C",
+                "last_commit": "2021-07-02T23:44:41Z",
+                "owner": "aduros",
+                "repo": "webuxn",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UxnWasm",
+              "description": "WebAssembly implementation of the Uxn core.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 710493837,
+                "language": "WebAssembly",
+                "last_commit": "2024-08-15T16:02:41Z",
+                "owner": "remko",
+                "repo": "uxn.wasm",
+                "stars": 57
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "uxn.py",
+              "description": "Python implementation of the VM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 482638654,
+                "language": "Python",
+                "last_commit": "2022-04-18T19:59:47Z",
+                "owner": "max22-",
+                "repo": "uxnemu.py",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "auxn",
+              "description": "Incomplete.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577965067,
+                "language": "Rust",
+                "last_commit": "2023-01-17T05:55:27Z",
+                "owner": "saucesaft",
+                "repo": "auxn",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "buxn-dbg",
+              "description": "Uxntal step debugger.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 985864853,
+                "language": "C",
+                "last_commit": "2025-07-18T01:30:25Z",
+                "owner": "bullno1",
+                "repo": "buxn-dbg",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc/Cores"
+        }
+      ],
       "title": "Emulators"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Recommended for Windows: Uxn32",
-          "description": "Windows emulator, written in C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-27T17:35:19Z",
-            "owner": "randrew",
-            "repo": "uxn32",
-            "stars": 278
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fourtette",
+              "description": "Tetris for Varvara.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 636515518,
+                "language": "Go",
+                "last_commit": "2023-08-10T21:08:07Z",
+                "owner": "nf",
+                "repo": "fourtette",
+                "stars": 52
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shanghai",
+              "description": "Mahjong Solitaire for Varvara.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 543216256,
+                "language": "Python",
+                "last_commit": "2023-06-06T21:07:04Z",
+                "owner": "lynn",
+                "repo": "shanghai",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "oneko-uxn",
+              "description": "A version of “Neko”, the classic desktop pet cat, with several characters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 659658688,
+                "language": "C",
+                "last_commit": "2023-07-02T18:33:38Z",
+                "owner": "hikari-no-yume",
+                "repo": "oneko-uxn",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flappy",
+              "description": "Implementation of a Flappy Bird-like game.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 403057220,
+                "language": "Shell",
+                "last_commit": "2021-09-26T15:58:33Z",
+                "owner": "keijiro",
+                "repo": "uxn-sketches",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pinkie Run",
+              "description": "Pony-themed Endless Runner for Varvara.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 597975826,
+                "language": null,
+                "last_commit": "2024-01-16T14:49:32Z",
+                "owner": "Jaezmien",
+                "repo": "pinkie-run",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lights Out",
+              "description": "Puzzle game for Varvara.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 773453590,
+                "language": "Makefile",
+                "last_commit": "2024-03-17T19:07:47Z",
+                "owner": "origedit",
+                "repo": "lights-out",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Worm",
+              "description": "Dune themed snake game for Varvara.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 777243160,
+                "language": "Makefile",
+                "last_commit": "2024-03-26T13:01:13Z",
+                "owner": "origedit",
+                "repo": "worm",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Games"
         },
         {
-          "node_type": "item",
-          "title": "Nux",
-          "description": "Emulator written in Go.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-08-11T12:17:20Z",
-            "owner": "nf",
-            "repo": "nux",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zuxn",
-          "description": "A Uxn library, emulator and assembler written in Zig.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Zig",
-            "last_commit": "2026-08-14T15:24:33Z",
-            "owner": "chmod222",
-            "repo": "zuxn",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "buxn",
-          "description": "Multi platform emulator, written in C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-30T01:35:10Z",
-            "owner": "bullno1",
-            "repo": "buxn",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UxnLua",
-          "description": "Cross-platform emulator, written in Lua(Love2d).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2023-05-01T07:28:03Z",
-            "owner": "DeltaF1",
-            "repo": "uxn-lua",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UxnJulia",
-          "description": "Cross-platform emulator and assembler, written in Julia.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Julia",
-            "last_commit": "2024-03-01T05:33:04Z",
-            "owner": "Ismael-VC",
-            "repo": "Varvara.jl",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uxn9",
-          "description": "Native emulator for 9front. (no audio support)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-10T12:34:43Z",
-            "owner": "krzysckh",
-            "repo": "uxn9",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uxn-rs",
-          "description": "Emulator written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-10-13T16:07:26Z",
-            "owner": "Liorst4",
-            "repo": "uxn-rs",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uxnk",
-          "description": "Emulator written in Kotlin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2026-03-29T14:14:33Z",
-            "owner": "makohn",
-            "repo": "uxnk",
-            "stars": 1
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CollapseOS",
+              "description": "Forth-based operating system for Varvara.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 495408612,
+                "language": "Forth",
+                "last_commit": "2022-06-07T20:30:16Z",
+                "owner": "schierlm",
+                "repo": "collapseos-uxn",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TalOS",
+              "description": "A small Uxntal REPL and System Monitor/OS written in Uxntal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 793345017,
+                "language": "Smarty",
+                "last_commit": "2025-11-28T12:11:49Z",
+                "owner": "UxnTalOS",
+                "repo": "talos",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Operating systems/REPLs"
         }
       ],
-      "title": "Desktop"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Nintendo DS",
-          "description": "Complete.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-03-22T10:06:12Z",
-            "owner": "asiekierka",
-            "repo": "uxnds",
-            "stars": 174
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Game Boy",
-          "description": "Incomplete.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2023-05-09T05:07:39Z",
-            "owner": "tbsp",
-            "repo": "uxngb",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESP32",
-          "description": "Incomplete.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-03-06T22:03:01Z",
-            "owner": "max22-",
-            "repo": "uxn-esp32",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FPGA",
-          "description": "Partial.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Verilog",
-            "last_commit": "2026-02-07T04:55:50Z",
-            "owner": "tsalvo",
-            "repo": "openfpga-varvara",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Android",
-          "description": "Complete.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-30T01:35:10Z",
-            "owner": "bullno1",
-            "repo": "buxn",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iOS",
-          "description": "Incomplete.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2021-07-20T20:47:13Z",
-            "owner": "kylestew",
-            "repo": "UxniOS",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Logisim",
-          "description": "Incomplete.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "M4",
-            "last_commit": "2023-12-11T19:06:07Z",
-            "owner": "DeltaF1",
-            "repo": "uxn-logisim",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RPi",
-          "description": "Partial.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-03-31T21:11:58Z",
-            "owner": "ar-nelson",
-            "repo": "uxnpi",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Teletype",
-          "description": "Incomplete.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-06-28T00:44:39Z",
-            "owner": "csboling",
-            "repo": "teluxn",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iOS",
-          "description": "Incomplete.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-10-18T20:44:31Z",
-            "owner": "paiv",
-            "repo": "uxn-ios",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "STM32duino",
-          "description": "Incomplete.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-11-02T16:39:02Z",
-            "owner": "cassvs",
-            "repo": "arduxno-demo",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IBM PC",
-          "description": "Incomplete.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-23T01:28:48Z",
-            "owner": "cr1901",
-            "repo": "pcuxn",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PlayStation Vita",
-          "description": "Incomplete.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-11-27T16:06:29Z",
-            "owner": "ivodopiviz",
-            "repo": "uxnvita",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "Other systems"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Webuxn",
-          "description": "Lightweight port of the Uxn virtual machine to the web via WebAssembly.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-07-02T23:44:41Z",
-            "owner": "aduros",
-            "repo": "webuxn",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UxnWasm",
-          "description": "WebAssembly implementation of the Uxn core.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "WebAssembly",
-            "last_commit": "2024-08-15T16:02:41Z",
-            "owner": "remko",
-            "repo": "uxn.wasm",
-            "stars": 57
-          }
-        }
-      ],
-      "title": "Web"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "uxn.py",
-          "description": "Python implementation of the VM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-18T19:59:47Z",
-            "owner": "max22-",
-            "repo": "uxnemu.py",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "auxn",
-          "description": "Incomplete.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-01-17T05:55:27Z",
-            "owner": "saucesaft",
-            "repo": "auxn",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "buxn-dbg",
-          "description": "Uxntal step debugger.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-07-18T01:30:25Z",
-            "owner": "bullno1",
-            "repo": "buxn-dbg",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Misc/Cores"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Applications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Fourtette",
-          "description": "Tetris for Varvara.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-08-10T21:08:07Z",
-            "owner": "nf",
-            "repo": "fourtette",
-            "stars": 52
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "buxn-asm",
+              "description": "Uxntal assembler with a type checker.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 958601246,
+                "language": "C",
+                "last_commit": "2025-12-30T01:35:10Z",
+                "owner": "bullno1",
+                "repo": "buxn",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uxnasm-js",
+              "description": "Uxntal assembler written in JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 425466549,
+                "language": "JavaScript",
+                "last_commit": "2021-11-26T18:24:41Z",
+                "owner": "rafapaezbas",
+                "repo": "uxnasm-js",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lunas",
+              "description": "An Uxntal assembler written in Lua.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 633206497,
+                "language": "Lua",
+                "last_commit": "2023-10-10T09:14:51Z",
+                "owner": "thacuber2a03",
+                "repo": "lunas",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Uxntal Assemblers"
         },
         {
-          "node_type": "item",
-          "title": "Shanghai",
-          "description": "Mahjong Solitaire for Varvara.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-06T21:07:04Z",
-            "owner": "lynn",
-            "repo": "shanghai",
-            "stars": 38
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Uxn-disassembler",
+              "description": "Disassembler writen in Uxntal",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560462814,
+                "language": "Python",
+                "last_commit": "2023-05-08T20:27:00Z",
+                "owner": "Liorst4",
+                "repo": "uxn-disassembler",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pyuxntaldisasm",
+              "description": "Very basic disassembler for Uxn ROMs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431001438,
+                "language": "Python",
+                "last_commit": "2021-11-23T07:26:06Z",
+                "owner": "DeltaF1",
+                "repo": "pyuxntaldisasm",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Uxntal Disassemblers"
         },
         {
-          "node_type": "item",
-          "title": "oneko-uxn",
-          "description": "A version of “Neko”, the classic desktop pet cat, with several characters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-07-02T18:33:38Z",
-            "owner": "hikari-no-yume",
-            "repo": "oneko-uxn",
-            "stars": 29
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Emacs mode",
+              "description": "(alt 1 alt 2)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 454237011,
+                "language": "Emacs Lisp",
+                "last_commit": "2024-03-27T01:56:25Z",
+                "owner": "non",
+                "repo": "uxntal-mode",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Language server",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 997158244,
+                "language": "C",
+                "last_commit": "2025-10-03T23:20:45Z",
+                "owner": "bullno1",
+                "repo": "buxn-ls",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kate syntax",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629809263,
+                "language": null,
+                "last_commit": "2025-06-15T21:22:58Z",
+                "owner": "pfych",
+                "repo": "uxntal-kate-syntax",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Uxntal language support"
         },
         {
-          "node_type": "item",
-          "title": "Flappy",
-          "description": "Implementation of a Flappy Bird-like game.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-09-26T15:58:33Z",
-            "owner": "keijiro",
-            "repo": "uxn-sketches",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pinkie Run",
-          "description": "Pony-themed Endless Runner for Varvara.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-01-16T14:49:32Z",
-            "owner": "Jaezmien",
-            "repo": "pinkie-run",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lights Out",
-          "description": "Puzzle game for Varvara.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2024-03-17T19:07:47Z",
-            "owner": "origedit",
-            "repo": "lights-out",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Worm",
-          "description": "Dune themed snake game for Varvara.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2024-03-26T13:01:13Z",
-            "owner": "origedit",
-            "repo": "worm",
-            "stars": 5
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "B",
+              "description": "Compiler for the B Programming Language implemented in Crust, has support for uxn target.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 968798712,
+                "language": "Rust",
+                "last_commit": "2025-10-29T04:14:38Z",
+                "owner": "bext-lang",
+                "repo": "b",
+                "stars": 709
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "chibicc-uxn",
+              "description": "A C compiler for Uxn, written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 651204643,
+                "language": "C",
+                "last_commit": "2026-03-14T11:35:23Z",
+                "owner": "lynn",
+                "repo": "chibicc",
+                "stars": 150
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Callisto",
+              "description": "Low level compiled programming language with a uxn backend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 775064110,
+                "language": "D",
+                "last_commit": "2026-01-14T21:00:23Z",
+                "owner": "callisto-lang",
+                "repo": "compiler",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Finwë",
+              "description": "A high-level, stack-based language that compiles to Uxn bytecode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618519454,
+                "language": "Zig",
+                "last_commit": "2025-05-30T02:26:13Z",
+                "owner": "kiedtl",
+                "repo": "finwe",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dotal",
+              "description": "A small language designed to compile to the Uxn virtual machine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 567016444,
+                "language": "C",
+                "last_commit": "2022-11-22T05:47:59Z",
+                "owner": "HParker",
+                "repo": "dotal",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "niënor",
+              "description": "Optimizing compiler for a Lisp dialect.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 996192420,
+                "language": "Scheme",
+                "last_commit": "2026-01-22T14:47:04Z",
+                "owner": "krzysckh",
+                "repo": "nienor",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conch",
+              "description": "Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 423266376,
+                "language": "OCaml",
+                "last_commit": "2021-11-06T08:24:31Z",
+                "owner": "Armael",
+                "repo": "conch",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Uxncle",
+              "description": "Compiler for a small subset of C to Uxn bytecode.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 380053882,
+                "language": "C",
+                "last_commit": "2021-10-16T23:43:50Z",
+                "owner": "CPunch",
+                "repo": "Uxncle",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Languages that target Uxn"
         }
       ],
-      "title": "Games"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CollapseOS",
-          "description": "Forth-based operating system for Varvara.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Forth",
-            "last_commit": "2022-06-07T20:30:16Z",
-            "owner": "schierlm",
-            "repo": "collapseos-uxn",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TalOS",
-          "description": "A small Uxntal REPL and System Monitor/OS written in Uxntal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Smarty",
-            "last_commit": "2025-11-28T12:11:49Z",
-            "owner": "UxnTalOS",
-            "repo": "talos",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Operating systems/REPLs"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Development tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "buxn-asm",
-          "description": "Uxntal assembler with a type checker.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-30T01:35:10Z",
-            "owner": "bullno1",
-            "repo": "buxn",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Uxnasm-js",
-          "description": "Uxntal assembler written in JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-11-26T18:24:41Z",
-            "owner": "rafapaezbas",
-            "repo": "uxnasm-js",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lunas",
-          "description": "An Uxntal assembler written in Lua.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2023-10-10T09:14:51Z",
-            "owner": "thacuber2a03",
-            "repo": "lunas",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Uxntal Assemblers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Uxn-disassembler",
-          "description": "Disassembler writen in Uxntal",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-08T20:27:00Z",
-            "owner": "Liorst4",
-            "repo": "uxn-disassembler",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pyuxntaldisasm",
-          "description": "Very basic disassembler for Uxn ROMs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-11-23T07:26:06Z",
-            "owner": "DeltaF1",
-            "repo": "pyuxntaldisasm",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Uxntal Disassemblers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Emacs mode",
-          "description": "(alt 1 alt 2)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Emacs Lisp",
-            "last_commit": "2024-03-27T01:56:25Z",
-            "owner": "non",
-            "repo": "uxntal-mode",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Language server",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-03T23:20:45Z",
-            "owner": "bullno1",
-            "repo": "buxn-ls",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kate syntax",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-06-15T21:22:58Z",
-            "owner": "pfych",
-            "repo": "uxntal-kate-syntax",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vim plugin",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "Uxntal language support"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "B",
-          "description": "Compiler for the B Programming Language implemented in Crust, has support for uxn target.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-10-29T04:14:38Z",
-            "owner": "bext-lang",
-            "repo": "b",
-            "stars": 708
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chibicc-uxn",
-          "description": "A C compiler for Uxn, written in C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-03-14T11:35:23Z",
-            "owner": "lynn",
-            "repo": "chibicc",
-            "stars": 150
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Callisto",
-          "description": "Low level compiled programming language with a uxn backend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "D",
-            "last_commit": "2026-01-14T21:00:23Z",
-            "owner": "callisto-lang",
-            "repo": "compiler",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Finwë",
-          "description": "A high-level, stack-based language that compiles to Uxn bytecode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Zig",
-            "last_commit": "2025-05-30T02:26:13Z",
-            "owner": "kiedtl",
-            "repo": "finwe",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dotal",
-          "description": "A small language designed to compile to the Uxn virtual machine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2022-11-22T05:47:59Z",
-            "owner": "HParker",
-            "repo": "dotal",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "niënor",
-          "description": "Optimizing compiler for a Lisp dialect.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scheme",
-            "last_commit": "2026-01-22T14:47:04Z",
-            "owner": "krzysckh",
-            "repo": "nienor",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Conch",
-          "description": "Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2021-11-06T08:24:31Z",
-            "owner": "Armael",
-            "repo": "conch",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Uxncle",
-          "description": "Compiler for a small subset of C to Uxn bytecode.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2021-10-16T23:43:50Z",
-            "owner": "CPunch",
-            "repo": "Uxncle",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Languages that target Uxn"
-    },
-    {
-      "description": "Submit patches using to the ~rabbits/public-inbox mailing list.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:21:23.646Z",
+    "last_updated": "2026-08-19T10:21:56.990Z",
     "original_repository": "hundredrabbits/awesome-uxn",
     "original_repository_sha": "5b102cffa1c6971a8627a319b1ab070c3bf9256e",
     "enhanced_repository": "enhansome/enhansome-uxn",
