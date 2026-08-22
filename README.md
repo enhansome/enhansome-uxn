@@ -32,8 +32,8 @@
 
 * **Recommended for Windows**: [Uxn32](https://github.com/randrew/uxn32) ⭐ 278 | 🐛 3 | 🌐 C | 📅 2025-12-27 - Windows emulator, written in C.
 * [Nux](https://github.com/nf/nux) ⭐ 50 | 🐛 1 | 🌐 Go | 📅 2023-08-11 - Emulator written in Go.
-* [zuxn](https://github.com/chmod222/zuxn) ⭐ 35 | 🐛 0 | 🌐 Zig | 📅 2026-08-14 - A Uxn library, emulator and assembler written in Zig.
-* [buxn](https://github.com/bullno1/buxn) ⭐ 22 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Multi platform emulator, written in C.
+* [zuxn](https://github.com/chmod222/zuxn) ⭐ 35 | 🐛 0 | 🌐 Zig | 📅 2026-08-21 - A Uxn library, emulator and assembler written in Zig.
+* [buxn](https://github.com/bullno1/buxn) ⭐ 23 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Multi platform emulator, written in C.
 * [UxnLua](https://github.com/DeltaF1/uxn-lua) ⭐ 20 | 🐛 1 | 🌐 Lua | 📅 2023-05-01 - Cross-platform emulator, written in Lua(Love2d).
 * [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) ⭐ 15 | 🐛 0 | 🌐 Julia | 📅 2024-03-01 - Cross-platform emulator and assembler, written in Julia.
 * [uxn9](https://github.com/krzysckh/uxn9) ⭐ 14 | 🐛 0 | 🌐 C | 📅 2026-06-10 - Native emulator for 9front. (no audio support)
@@ -56,7 +56,7 @@
 * [Game Boy](https://github.com/tbsp/uxngb) ⭐ 50 | 🐛 0 | 🌐 Assembly | 📅 2023-05-09 - Incomplete.
 * [ESP32](https://github.com/max22-/uxn-esp32) ⭐ 41 | 🐛 1 | 🌐 C++ | 📅 2023-03-06 - Incomplete.
 * [FPGA](https://github.com/tsalvo/openfpga-varvara) ⭐ 31 | 🐛 6 | 🌐 Verilog | 📅 2026-02-07 - Partial.
-* [Android](https://github.com/bullno1/buxn) ⭐ 22 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Complete.
+* [Android](https://github.com/bullno1/buxn) ⭐ 23 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Complete.
 * [iOS](https://github.com/kylestew/UxniOS) ⭐ 21 | 🐛 0 | 🌐 Objective-C | 📅 2021-07-20 - Incomplete.
 * [Logisim](https://github.com/DeltaF1/uxn-logisim) ⭐ 16 | 🐛 0 | 🌐 M4 | 📅 2023-12-11 - Incomplete.
 * [RPi](https://github.com/ar-nelson/uxnpi) ⭐ 15 | 🐛 1 | 🌐 C++ | 📅 2024-03-31 - Partial.
@@ -176,7 +176,7 @@ Implementations of the core and console.
 
 ### Uxntal Assemblers
 
-* [buxn-asm](https://github.com/bullno1/buxn) ⭐ 22 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Uxntal assembler with a type checker.
+* [buxn-asm](https://github.com/bullno1/buxn) ⭐ 23 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Uxntal assembler with a type checker.
 * [Uxnasm-js](https://github.com/rafapaezbas/uxnasm-js) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2021-11-26 - Uxntal assembler written in JavaScript.
 * [lunas](https://github.com/ThaCuber/lunas) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2023-10-10 - An Uxntal assembler written in Lua.
 * **Recommended**: [Drifblim](https://wiki.xxiivv.com/site/drifblim.html) - Uxntal Assembler, written in Uxntal.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
