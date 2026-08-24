@@ -103,16 +103,17 @@ Implementations of the core and console.
 
 ### Creative
 
+* [uxn-harp](https://github.com/lynn/uxn-harp) ⭐ 35 | 🐛 1 | 📅 2022-07-19 - Chordal musical toy.
 * [Left](https://wiki.xxiivv.com/site/left.html) - Graphical text-editor with Uxntal syntax highlight.
 * [Nasu](https://wiki.xxiivv.com/site/nasu.html) - Spritesheet editor.
 * [Noodle](https://wiki.xxiivv.com/site/noodle.html) - Drawing tool.
 * [Turye](https://wiki.xxiivv.com/site/turye.html) - Font editor.
 * [Orca](https://wiki.xxiivv.com/site/orca.html) - Livecoding IDE.
-* [uxn-harp](https://github.com/lynn/uxn-harp) ⭐ 35 | 🐛 1 | 📅 2022-07-19 - Chordal musical toy.
 * [accordeon.fucker](https://git.lunabee.space/accordion.fucker/) - Uxntal accordion softsynth.
 
 ### Utilities
 
+* [Varaboy](https://github.com/tbsp/varaboy) ⭐ 55 | 🐛 1 | 📅 2024-06-07 - Gameboy Emulator.
 * [Notepad](https://wiki.xxiivv.com/site/notepad.html) - Notepad.
 * [Calendar](https://wiki.xxiivv.com/site/calendar.html) - Calendar.
 * [Theme](https://wiki.xxiivv.com/site/theme.html) - Theme editor.
@@ -121,7 +122,6 @@ Implementations of the core and console.
 * [Nebu](https://wiki.xxiivv.com/site/nebu.html) - Spreadsheet calculator.
 * [Starling](https://git.sr.ht/~cabrendan/starling) - Spreadsheet application.
 * [Beetbug](https://git.sr.ht/~rabbits/beetbug) - Step debugger.
-* [Varaboy](https://github.com/tbsp/varaboy) ⭐ 55 | 🐛 1 | 📅 2024-06-07 - Gameboy Emulator.
 
 ### Games
 
@@ -153,9 +153,9 @@ Implementations of the core and console.
 
 ### Demos
 
+* [svitlyna](https://github.com/gardenappl/svitlyna) ⭐ 13 | 🐛 0 | 📅 2025-07-16 - A "full-color" image viewer.
 * [Bad Apple!!](http://167.235.19.20/bad-apple-uxn/) - An arrangement of the Bad Apple!! music video.
 * [tiles](https://codeberg.org/kira/uxn-demos/src/branch/master/tiles.tal) - A scrolling tile-map renderer.
-* [svitlyna](https://github.com/gardenappl/svitlyna) ⭐ 13 | 🐛 0 | 📅 2025-07-16 - A "full-color" image viewer.
 * [Bunnymark](https://git.sr.ht/~rabbits/uxn-games/tree/main/item/bunnymark/src/bunnymark.tal) - Render performance benchmark.
 
 ### Libraries
@@ -190,8 +190,8 @@ Implementations of the core and console.
 
 ### Uxntal Formatters/Optimizers
 
-* **Recommended**: [uxnfor](https://git.sr.ht/~rabbits/uxnfor) - a formatter for tal files.
 * [Uxnbruteforce](https://github.com/max22-/uxnbruteforce) ⭐ 8 | 🐛 0 | 🌐 C | 📅 2021-11-10 - Tool for optimizing little pieces of Uxntal code.
+* **Recommended**: [uxnfor](https://git.sr.ht/~rabbits/uxnfor) - a formatter for tal files.
 * [Uxnlin](https://git.sr.ht/~rabbits/uxnlin) - Linter for Uxntal.
 
 ### Uxntal language support

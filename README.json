@@ -446,6 +446,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "uxn-harp",
+              "description": "Chordal musical toy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 510464425,
+                "language": null,
+                "last_commit": "2022-07-19T15:50:04Z",
+                "owner": "lynn",
+                "repo": "uxn-harp",
+                "stars": 35
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Creative"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Varaboy",
+              "description": "Gameboy Emulator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576514731,
+                "language": null,
+                "last_commit": "2024-06-07T05:27:35Z",
+                "owner": "tbsp",
+                "repo": "varaboy",
+                "stars": 55
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Utilities"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Fourtette",
               "description": "Tetris for Varvara.",
               "children": [],
@@ -590,6 +634,28 @@
           "description": null,
           "node_type": "group",
           "title": "Operating systems/REPLs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "svitlyna",
+              "description": "A \"full-color\" image viewer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 763726065,
+                "language": null,
+                "last_commit": "2025-07-16T18:43:40Z",
+                "owner": "gardenappl",
+                "repo": "svitlyna",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Demos"
         }
       ],
       "title": "Applications"
@@ -685,6 +751,28 @@
           "description": null,
           "node_type": "group",
           "title": "Uxntal Disassemblers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Uxnbruteforce",
+              "description": "Tool for optimizing little pieces of Uxntal code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 426308190,
+                "language": "C",
+                "last_commit": "2021-11-10T09:41:51Z",
+                "owner": "max22-",
+                "repo": "uxnbruteforce",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Uxntal Formatters/Optimizers"
         },
         {
           "children": [
@@ -870,7 +958,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:31:37.956Z",
+    "last_updated": "2026-08-24T14:19:11.229Z",
     "original_repository": "hundredrabbits/awesome-uxn",
     "original_repository_id": 408632652,
     "original_repository_sha": "5b102cffa1c6971a8627a319b1ab070c3bf9256e",
