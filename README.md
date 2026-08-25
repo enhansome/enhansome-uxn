@@ -31,7 +31,7 @@
 ### Desktop
 
 * **Recommended for Windows**: [Uxn32](https://github.com/randrew/uxn32) ⭐ 279 | 🐛 3 | 🌐 C | 📅 2025-12-27 - Windows emulator, written in C.
-* [Nux](https://github.com/nf/nux) ⭐ 50 | 🐛 1 | 🌐 Go | 📅 2023-08-11 - Emulator written in Go.
+* [Nux](https://github.com/nf/nux) ⭐ 50 | 🐛 0 | 🌐 Go | 📅 2026-08-25 - Emulator written in Go.
 * [zuxn](https://github.com/chmod222/zuxn) ⭐ 35 | 🐛 0 | 🌐 Zig | 📅 2026-08-21 - A Uxn library, emulator and assembler written in Zig.
 * [buxn](https://github.com/bullno1/buxn) ⭐ 23 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Multi platform emulator, written in C.
 * [UxnLua](https://github.com/DeltaF1/uxn-lua) ⭐ 20 | 🐛 1 | 🌐 Lua | 📅 2023-05-01 - Cross-platform emulator, written in Lua(Love2d).
@@ -52,7 +52,7 @@
 
 ### Other systems
 
-* [Nintendo DS](https://github.com/asiekierka/uxnds) ⭐ 174 | 🐛 5 | 🌐 C | 📅 2026-03-22 - Complete.
+* [Nintendo DS](https://github.com/asiekierka/uxnds) ⭐ 175 | 🐛 5 | 🌐 C | 📅 2026-03-22 - Complete.
 * [Game Boy](https://github.com/tbsp/uxngb) ⭐ 50 | 🐛 0 | 🌐 Assembly | 📅 2023-05-09 - Incomplete.
 * [ESP32](https://github.com/max22-/uxn-esp32) ⭐ 41 | 🐛 1 | 🌐 C++ | 📅 2023-03-06 - Incomplete.
 * [FPGA](https://github.com/tsalvo/openfpga-varvara) ⭐ 31 | 🐛 6 | 🌐 Verilog | 📅 2026-02-07 - Partial.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

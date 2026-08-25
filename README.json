@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 626331109,
                 "language": "Go",
-                "last_commit": "2023-08-11T12:17:20Z",
+                "last_commit": "2026-08-25T04:45:36Z",
                 "owner": "nf",
                 "repo": "nux",
                 "stars": 50
@@ -159,7 +159,7 @@
                 "last_commit": "2026-03-22T10:06:12Z",
                 "owner": "asiekierka",
                 "repo": "uxnds",
-                "stars": 174
+                "stars": 175
               }
             },
             {
@@ -958,7 +958,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:11.229Z",
+    "last_updated": "2026-08-25T06:06:08.772Z",
     "original_repository": "hundredrabbits/awesome-uxn",
     "original_repository_id": 408632652,
     "original_repository_sha": "5b102cffa1c6971a8627a319b1ab070c3bf9256e",
