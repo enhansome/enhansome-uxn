@@ -31,7 +31,7 @@
 ### Desktop
 
 * **Recommended for Windows**: [Uxn32](https://github.com/randrew/uxn32) ⭐ 279 | 🐛 3 | 🌐 C | 📅 2025-12-27 - Windows emulator, written in C.
-* [Nux](https://github.com/nf/nux) ⭐ 50 | 🐛 0 | 🌐 Go | 📅 2026-08-25 - Emulator written in Go.
+* [Nux](https://github.com/nf/nux) ⭐ 50 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - Emulator written in Go.
 * [zuxn](https://github.com/chmod222/zuxn) ⭐ 35 | 🐛 0 | 🌐 Zig | 📅 2026-08-21 - A Uxn library, emulator and assembler written in Zig.
 * [buxn](https://github.com/bullno1/buxn) ⭐ 23 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Multi platform emulator, written in C.
 * [UxnLua](https://github.com/DeltaF1/uxn-lua) ⭐ 20 | 🐛 1 | 🌐 Lua | 📅 2023-05-01 - Cross-platform emulator, written in Lua(Love2d).
@@ -125,7 +125,7 @@ Implementations of the core and console.
 
 ### Games
 
-* [Fourtette](https://github.com/nf/fourtette) ⭐ 52 | 🐛 0 | 🌐 Go | 📅 2023-08-10 - Tetris for Varvara.
+* [Fourtette](https://github.com/nf/fourtette) ⭐ 52 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - Tetris for Varvara.
 * [Shanghai](https://github.com/lynn/shanghai) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2023-06-06 - Mahjong Solitaire for Varvara.
 * [oneko-uxn](https://github.com/hikari-no-yume/oneko-uxn) ⭐ 29 | 🐛 0 | 🌐 C | 📅 2023-07-02 - A version of “Neko”, the classic desktop pet cat, with several characters.
 * [Flappy](https://github.com/keijiro/uxn-sketches/blob/main/flappy.tal) ⭐ 24 | 🐛 1 | 🌐 Shell | 📅 2021-09-26 - Implementation of a Flappy Bird-like game.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
