@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 626331109,
                 "language": "Go",
-                "last_commit": "2026-08-26T01:57:41Z",
+                "last_commit": "2026-08-26T22:49:15Z",
                 "owner": "nf",
                 "repo": "nux",
                 "stars": 50
@@ -840,7 +840,7 @@
                 "last_commit": "2025-10-29T04:14:38Z",
                 "owner": "bext-lang",
                 "repo": "b",
-                "stars": 709
+                "stars": 710
               }
             },
             {
@@ -958,9 +958,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:28:52.425Z",
-    "original_repository": "hundredrabbits/awesome-uxn",
-    "original_repository_id": 408632652,
+    "last_updated": "2026-08-27T12:08:57.179Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 408632652,
+      "language": null,
+      "last_commit": "2026-04-13T15:10:51Z",
+      "owner": "hundredrabbits",
+      "repo": "awesome-uxn",
+      "stars": 1040
+    },
     "original_repository_sha": "5b102cffa1c6971a8627a319b1ab070c3bf9256e",
     "enhanced_repository": "enhansome/enhansome-uxn",
     "enhanced_repository_description": null,
