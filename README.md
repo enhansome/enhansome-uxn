@@ -145,7 +145,7 @@ Implementations of the core and console.
 
 ### Operating systems/REPLs
 
-* [CollapseOS](https://github.com/schierlm/collapseos-uxn) ⭐ 77 | 🐛 0 | 🌐 Forth | 📅 2022-06-07 - Forth-based [operating system](http://collapseos.org/) for Varvara.
+* [CollapseOS](https://github.com/schierlm/collapseos-uxn) ⭐ 78 | 🐛 0 | 🌐 Forth | 📅 2022-06-07 - Forth-based [operating system](http://collapseos.org/) for Varvara.
 * [TalOS](https://github.com/UxnTalOS/talos) ⭐ 14 | 🐛 1 | 🌐 Smarty | 📅 2025-11-28 - A small Uxntal REPL and System Monitor/OS written in Uxntal.
 * [UF](http://www.call-with-current-continuation.org/uf/uf.html) - A traditional Forth system for Varvara.
 * [PotatoOS](http://wiki.xxiivv.com/site/potato.html) - A little desktop environment.
@@ -210,7 +210,7 @@ Implementations of the core and console.
 
 ### Languages that target Uxn
 
-* [B](https://github.com/tsoding/b) ⭐ 711 | 🐛 46 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
+* [B](https://github.com/tsoding/b) ⭐ 710 | 🐛 46 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
 * [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 150 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
 * [Callisto](https://github.com/callisto-lang/compiler) ⭐ 77 | 🐛 0 | 🌐 D | 📅 2026-01-14 - Low level compiled programming language with a uxn backend.
 * [Finwë](https://github.com/kiedtl/finwe) ⭐ 50 | 🐛 19 | 🌐 Zig | 📅 2025-05-30 - A high-level, stack-based language that compiles to Uxn bytecode.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
