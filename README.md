@@ -35,8 +35,8 @@
 * [zuxn](https://github.com/chmod222/zuxn) ⭐ 35 | 🐛 0 | 🌐 Zig | 📅 2026-08-21 - A Uxn library, emulator and assembler written in Zig.
 * [buxn](https://github.com/bullno1/buxn) ⭐ 23 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Multi platform emulator, written in C.
 * [UxnLua](https://github.com/DeltaF1/uxn-lua) ⭐ 20 | 🐛 1 | 🌐 Lua | 📅 2023-05-01 - Cross-platform emulator, written in Lua(Love2d).
+* [uxn9](https://github.com/krzysckh/uxn9) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2026-06-10 - Native emulator for 9front. (no audio support)
 * [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) ⭐ 15 | 🐛 0 | 🌐 Julia | 📅 2024-03-01 - Cross-platform emulator and assembler, written in Julia.
-* [uxn9](https://github.com/krzysckh/uxn9) ⭐ 14 | 🐛 0 | 🌐 C | 📅 2026-06-10 - Native emulator for 9front. (no audio support)
 * [uxn-rs](https://github.com/Liorst4/uxn-rs) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2023-10-13 - Emulator written in Rust.
 * [uxnk](https://github.com/makohn/uxnk) ⭐ 1 | 🐛 0 | 🌐 Kotlin | 📅 2026-03-29 - Emulator written in Kotlin.
 * **Recommended for Linux/Mac**: [Uxn2](https://git.sr.ht/~rabbits/uxn2) - Cross-platform emulator, written in C(SDL2).
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
