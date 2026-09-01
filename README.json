@@ -1213,7 +1213,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2025-10-29T04:14:38Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "bext-lang",
                 "repo": "b",
                 "stars": 711,
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:20:39.803Z",
+    "last_updated": "2026-09-01T14:27:24.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things from the community",
