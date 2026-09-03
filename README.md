@@ -196,7 +196,7 @@ Implementations of the core and console.
 
 ### Uxntal language support
 
-* [Emacs mode](https://github.com/non/uxntal-mode) ⭐ 25 | 🐛 2 | 🌐 Emacs Lisp | 📅 2024-03-27 ([alt 1](https://github.com/xaderfos/uxntal-mode) ⭐ 19 | 🐛 5 | 🌐 Emacs Lisp | 📅 2021-06-28 [alt 2](https://github.com/rafapaezbas/uxntal-mode) ⭐ 6 | 🐛 1 | 🌐 Emacs Lisp | 📅 2021-11-03)
+* [Emacs mode](https://github.com/non/uxntal-mode) ⭐ 24 | 🐛 2 | 🌐 Emacs Lisp | 📅 2024-03-27 ([alt 1](https://github.com/xaderfos/uxntal-mode) ⭐ 20 | 🐛 5 | 🌐 Emacs Lisp | 📅 2021-06-28 [alt 2](https://github.com/rafapaezbas/uxntal-mode) ⭐ 6 | 🐛 1 | 🌐 Emacs Lisp | 📅 2021-11-03)
 * [Language server](https://github.com/bullno1/buxn-ls) ⭐ 6 | 🐛 1 | 🌐 C | 📅 2025-10-03
 * [Kate syntax](https://github.com/pfych/uxntal-kate-syntax) ⭐ 3 | 🐛 2 | 📅 2025-06-15
 * [Atom language package](https://atom.io/packages/language-uxntal)
@@ -210,7 +210,7 @@ Implementations of the core and console.
 
 ### Languages that target Uxn
 
-* [B](https://github.com/tsoding/b) ⭐ 711 | 🐛 47 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
+* [B](https://github.com/tsoding/b) ⭐ 713 | 🐛 47 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
 * [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 150 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
 * [Callisto](https://github.com/callisto-lang/compiler) ⭐ 77 | 🐛 0 | 🌐 D | 📅 2026-01-14 - Low level compiled programming language with a uxn backend.
 * [Finwë](https://github.com/kiedtl/finwe) ⭐ 50 | 🐛 19 | 🌐 Zig | 📅 2025-05-30 - A high-level, stack-based language that compiles to Uxn bytecode.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
