@@ -1216,7 +1216,7 @@
                 "open_issues": 47,
                 "owner": "bext-lang",
                 "repo": "b",
-                "stars": 713,
+                "stars": 714,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:03:19.617Z"
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T14:02:51.517Z",
+    "last_updated": "2026-09-04T13:55:26.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things from the community",
