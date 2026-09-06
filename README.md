@@ -30,7 +30,7 @@
 
 ### Desktop
 
-* **Recommended for Windows**: [Uxn32](https://github.com/randrew/uxn32) ⭐ 279 | 🐛 3 | 🌐 C | 📅 2025-12-27 - Windows emulator, written in C.
+* **Recommended for Windows**: [Uxn32](https://github.com/randrew/uxn32) ⭐ 280 | 🐛 3 | 🌐 C | 📅 2025-12-27 - Windows emulator, written in C.
 * [Nux](https://github.com/nf/nux) ⭐ 50 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - Emulator written in Go.
 * [zuxn](https://github.com/chmod222/zuxn) ⭐ 35 | 🐛 0 | 🌐 Zig | 📅 2026-08-21 - A Uxn library, emulator and assembler written in Zig.
 * [buxn](https://github.com/bullno1/buxn) ⭐ 24 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Multi platform emulator, written in C.
@@ -55,7 +55,7 @@
 * [Nintendo DS](https://github.com/asiekierka/uxnds) ⭐ 175 | 🐛 5 | 🌐 C | 📅 2026-03-22 - Complete.
 * [Game Boy](https://github.com/tbsp/uxngb) ⭐ 50 | 🐛 0 | 🌐 Assembly | 📅 2023-05-09 - Incomplete.
 * [ESP32](https://github.com/max22-/uxn-esp32) ⭐ 41 | 🐛 1 | 🌐 C++ | 📅 2023-03-06 - Incomplete.
-* [FPGA](https://github.com/tsalvo/openfpga-varvara) ⭐ 32 | 🐛 6 | 🌐 Verilog | 📅 2026-02-07 - Partial.
+* [FPGA](https://github.com/tsalvo/openfpga-varvara) ⭐ 32 | 🐛 6 | 🌐 Verilog | 📅 2026-09-06 - Partial.
 * [Android](https://github.com/bullno1/buxn) ⭐ 24 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Complete.
 * [iOS](https://github.com/kylestew/UxniOS) ⭐ 21 | 🐛 0 | 🌐 Objective-C | 📅 2021-07-20 - Incomplete.
 * [Logisim](https://github.com/DeltaF1/uxn-logisim) ⭐ 16 | 🐛 0 | 🌐 M4 | 📅 2023-12-11 - Incomplete.
@@ -210,8 +210,8 @@ Implementations of the core and console.
 
 ### Languages that target Uxn
 
-* [B](https://github.com/tsoding/b) ⭐ 715 | 🐛 47 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
-* [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
+* [B](https://github.com/tsoding/b) ⭐ 716 | 🐛 47 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
+* [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 153 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
 * [Callisto](https://github.com/callisto-lang/compiler) ⭐ 77 | 🐛 0 | 🌐 D | 📅 2026-01-14 - Low level compiled programming language with a uxn backend.
 * [Finwë](https://github.com/kiedtl/finwe) ⭐ 50 | 🐛 19 | 🌐 Zig | 📅 2025-05-30 - A high-level, stack-based language that compiles to Uxn bytecode.
 * [Dotal](https://github.com/HParker/dotal) ⭐ 47 | 🐛 2 | 🌐 C | 📅 2022-11-22 - A small language designed to compile to the Uxn virtual machine.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

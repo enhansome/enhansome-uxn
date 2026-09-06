@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "randrew",
                 "repo": "uxn32",
-                "stars": 279,
+                "stars": 280,
                 "topics": [
                   "c",
                   "uxn",
@@ -310,7 +310,7 @@
                 "id": 782820356,
                 "language": "Verilog",
                 "license": "MIT",
-                "last_commit": "2026-02-07T04:55:50Z",
+                "last_commit": "2026-09-06T06:43:07Z",
                 "open_issues": 6,
                 "owner": "tsalvo",
                 "repo": "openfpga-varvara",
@@ -1216,7 +1216,7 @@
                 "open_issues": 47,
                 "owner": "bext-lang",
                 "repo": "b",
-                "stars": 715,
+                "stars": 716,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:03:19.617Z"
@@ -1237,7 +1237,7 @@
                 "open_issues": 8,
                 "owner": "lynn",
                 "repo": "chibicc",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "uxn"
                 ]
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:11:09.431Z",
+    "last_updated": "2026-09-06T13:20:28.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things from the community",
