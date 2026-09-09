@@ -81,7 +81,7 @@
 ### Web
 
 * [Webuxn](https://github.com/aduros/webuxn) ⭐ 86 | 🐛 2 | 🌐 C | 📅 2021-07-02 - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
-* [UxnWasm](https://github.com/remko/uxn.wasm) ⭐ 57 | 🐛 3 | 🌐 WebAssembly | 📅 2024-08-15 - WebAssembly implementation of the Uxn core.
+* [UxnWasm](https://github.com/remko/uxn.wasm) ⭐ 58 | 🐛 3 | 🌐 WebAssembly | 📅 2024-08-15 - WebAssembly implementation of the Uxn core.
 
 ### Misc/Cores
 
@@ -210,7 +210,7 @@ Implementations of the core and console.
 
 ### Languages that target Uxn
 
-* [B](https://github.com/tsoding/b) ⭐ 716 | 🐛 47 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
+* [B](https://github.com/tsoding/b) ⭐ 717 | 🐛 48 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
 * [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 153 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
 * [Callisto](https://github.com/callisto-lang/compiler) ⭐ 77 | 🐛 0 | 🌐 D | 📅 2026-01-14 - Low level compiled programming language with a uxn backend.
 * [Finwë](https://github.com/kiedtl/finwe) ⭐ 50 | 🐛 19 | 🌐 Zig | 📅 2025-05-30 - A high-level, stack-based language that compiles to Uxn bytecode.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
