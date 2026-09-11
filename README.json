@@ -59,7 +59,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A Zig implementation of the Uxn and Varvara ecosystem",
+                "description": "A Zig implementation of the Uxn and Varvara ecosystem (MIRROR)",
                 "homepage": null,
                 "id": 672108254,
                 "language": "Zig",
@@ -1213,7 +1213,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2025-10-29T04:14:38Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "bext-lang",
                 "repo": "b",
                 "stars": 717,
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:59:49.988Z",
+    "last_updated": "2026-09-11T13:59:27.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things from the community",
