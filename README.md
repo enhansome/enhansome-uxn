@@ -52,9 +52,9 @@
 
 ### Other systems
 
-* [Nintendo DS](https://github.com/asiekierka/uxnds) ⭐ 175 | 🐛 5 | 🌐 C | 📅 2026-03-22 - Complete.
+* [Nintendo DS](https://github.com/asiekierka/uxnds) ⭐ 176 | 🐛 5 | 🌐 C | 📅 2026-03-22 - Complete.
 * [Game Boy](https://github.com/tbsp/uxngb) ⭐ 51 | 🐛 0 | 🌐 Assembly | 📅 2023-05-09 - Incomplete.
-* [ESP32](https://github.com/max22-/uxn-esp32) ⭐ 41 | 🐛 1 | 🌐 C++ | 📅 2023-03-06 - Incomplete.
+* [ESP32](https://github.com/max22-/uxn-esp32) ⭐ 42 | 🐛 1 | 🌐 C++ | 📅 2023-03-06 - Incomplete.
 * [FPGA](https://github.com/tsalvo/openfpga-varvara) ⭐ 32 | 🐛 6 | 🌐 Verilog | 📅 2026-09-06 - Partial.
 * [Android](https://github.com/bullno1/buxn) ⭐ 24 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Complete.
 * [iOS](https://github.com/kylestew/UxniOS) ⭐ 21 | 🐛 0 | 🌐 Objective-C | 📅 2021-07-20 - Incomplete.
@@ -210,7 +210,7 @@ Implementations of the core and console.
 
 ### Languages that target Uxn
 
-* [B](https://github.com/tsoding/b) ⭐ 718 | 🐛 49 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
+* [B](https://github.com/tsoding/b) ⭐ 718 | 🐛 47 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
 * [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 153 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
 * [Callisto](https://github.com/callisto-lang/compiler) ⭐ 77 | 🐛 0 | 🌐 D | 📅 2026-01-14 - Low level compiled programming language with a uxn backend.
 * [Finwë](https://github.com/kiedtl/finwe) ⭐ 50 | 🐛 19 | 🌐 Zig | 📅 2025-05-30 - A high-level, stack-based language that compiles to Uxn bytecode.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
