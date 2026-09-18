@@ -55,7 +55,7 @@
 * [Nintendo DS](https://github.com/asiekierka/uxnds) ⭐ 176 | 🐛 5 | 🌐 C | 📅 2026-03-22 - Complete.
 * [Game Boy](https://github.com/tbsp/uxngb) ⭐ 51 | 🐛 0 | 🌐 Assembly | 📅 2023-05-09 - Incomplete.
 * [ESP32](https://github.com/max22-/uxn-esp32) ⭐ 42 | 🐛 1 | 🌐 C++ | 📅 2023-03-06 - Incomplete.
-* [FPGA](https://github.com/tsalvo/openfpga-varvara) ⭐ 32 | 🐛 6 | 🌐 Verilog | 📅 2026-09-06 - Partial.
+* [FPGA](https://github.com/tsalvo/openfpga-varvara) ⭐ 33 | 🐛 6 | 🌐 Verilog | 📅 2026-09-06 - Partial.
 * [Android](https://github.com/bullno1/buxn) ⭐ 25 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Complete.
 * [iOS](https://github.com/kylestew/UxniOS) ⭐ 21 | 🐛 0 | 🌐 Objective-C | 📅 2021-07-20 - Incomplete.
 * [Logisim](https://github.com/DeltaF1/uxn-logisim) ⭐ 16 | 🐛 0 | 🌐 M4 | 📅 2023-12-11 - Incomplete.
@@ -127,7 +127,7 @@ Implementations of the core and console.
 
 * [Fourtette](https://github.com/nf/fourtette) ⭐ 52 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - Tetris for Varvara.
 * [Shanghai](https://github.com/lynn/shanghai) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2023-06-06 - Mahjong Solitaire for Varvara.
-* [oneko-uxn](https://github.com/hikari-no-yume/oneko-uxn) ⭐ 29 | 🐛 0 | 🌐 C | 📅 2023-07-02 - A version of “Neko”, the classic desktop pet cat, with several characters.
+* [oneko-uxn](https://github.com/hikari-no-yume/oneko-uxn) ⭐ 30 | 🐛 0 | 🌐 C | 📅 2023-07-02 - A version of “Neko”, the classic desktop pet cat, with several characters.
 * [Flappy](https://github.com/keijiro/uxn-sketches/blob/main/flappy.tal) ⭐ 24 | 🐛 1 | 🌐 Shell | 📅 2021-09-26 - Implementation of a Flappy Bird-like game.
 * [Pinkie Run](https://github.com/Jaezmien/pinkie-run) ⭐ 13 | 🐛 0 | 📅 2024-01-16 - Pony-themed Endless Runner for Varvara.
 * [Lights Out](https://github.com/origedit/lights-out) ⭐ 6 | 🐛 0 | 🌐 Makefile | 📅 2024-03-17 - Puzzle game for Varvara.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
