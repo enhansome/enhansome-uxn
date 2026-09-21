@@ -47,7 +47,7 @@
                 "open_issues": 0,
                 "owner": "nf",
                 "repo": "nux",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:03:19.617Z"
@@ -1213,7 +1213,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2025-10-29T04:14:38Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "bext-lang",
                 "repo": "b",
                 "stars": 716,
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:52:23.584Z",
+    "last_updated": "2026-09-21T16:08:31.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things from the community",
