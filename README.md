@@ -197,7 +197,7 @@ Implementations of the core and console.
 ### Uxntal language support
 
 * [Emacs mode](https://github.com/non/uxntal-mode) ⭐ 24 | 🐛 2 | 🌐 Emacs Lisp | 📅 2024-03-27 ([alt 1](https://github.com/xaderfos/uxntal-mode) ⭐ 20 | 🐛 5 | 🌐 Emacs Lisp | 📅 2021-06-28 [alt 2](https://github.com/rafapaezbas/uxntal-mode) ⭐ 6 | 🐛 1 | 🌐 Emacs Lisp | 📅 2021-11-03)
-* [Language server](https://github.com/bullno1/buxn-ls) ⭐ 6 | 🐛 1 | 🌐 C | 📅 2025-10-03
+* [Language server](https://github.com/bullno1/buxn-ls) ⭐ 7 | 🐛 1 | 🌐 C | 📅 2025-10-03
 * [Kate syntax](https://github.com/pfych/uxntal-kate-syntax) ⭐ 3 | 🐛 2 | 📅 2025-06-15
 * [Atom language package](https://atom.io/packages/language-uxntal)
 * [Kakoune plugin](https://git.sr.ht/~athorp96/uxntal.kak)
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
