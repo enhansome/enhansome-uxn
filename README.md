@@ -214,7 +214,7 @@ Implementations of the core and console.
 * [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 153 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
 * [Callisto](https://github.com/callisto-lang/compiler) ⭐ 77 | 🐛 0 | 🌐 D | 📅 2026-01-14 - Low level compiled programming language with a uxn backend.
 * [Finwë](https://github.com/kiedtl/finwe) ⭐ 50 | 🐛 19 | 🌐 Zig | 📅 2025-05-30 - A high-level, stack-based language that compiles to Uxn bytecode.
-* [Dotal](https://github.com/HParker/dotal) ⭐ 47 | 🐛 2 | 🌐 C | 📅 2022-11-22 - A small language designed to compile to the Uxn virtual machine.
+* [Dotal](https://github.com/HParker/dotal) ⭐ 48 | 🐛 2 | 🌐 C | 📅 2022-11-22 - A small language designed to compile to the Uxn virtual machine.
 * [niënor](https://github.com/krzysckh/nienor) ⭐ 35 | 🐛 0 | 🌐 Scheme | 📅 2026-01-22 - Optimizing compiler for a Lisp dialect.
 * [Conch](https://github.com/Armael/conch) ⭐ 24 | 🐛 0 | 🌐 OCaml | 📅 2021-11-06 - Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.
 * [Uxncle](https://github.com/CPunch/Uxncle) ⚠️ Archived - Compiler for a small subset of C to Uxn bytecode.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
