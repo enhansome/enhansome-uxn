@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "randrew",
                 "repo": "uxn32",
-                "stars": 282,
+                "stars": 281,
                 "topics": [
                   "c",
                   "uxn",
@@ -1150,7 +1150,7 @@
             {
               "node_type": "item",
               "title": "Language server",
-              "description": null,
+              "description": "bullno1/buxn-ls",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1171,7 +1171,7 @@
             {
               "node_type": "item",
               "title": "Kate syntax",
-              "description": null,
+              "description": "pfych/uxntal-kate-syntax",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:03:14.381Z",
+    "last_updated": "2026-10-03T05:13:52.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things from the community",
