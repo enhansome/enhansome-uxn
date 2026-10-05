@@ -64,7 +64,7 @@
                 "id": 672108254,
                 "language": "Zig",
                 "license": "MPL-2.0",
-                "last_commit": "2026-08-21T19:40:14Z",
+                "last_commit": "2026-10-04T23:32:53Z",
                 "open_issues": 0,
                 "owner": "chmod222",
                 "repo": "zuxn",
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:05:10.885Z",
+    "last_updated": "2026-10-05T19:00:22.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things from the community",
