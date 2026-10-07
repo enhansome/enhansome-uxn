@@ -30,7 +30,7 @@
 
 ### Desktop
 
-* **Recommended for Windows**: [Uxn32](https://github.com/randrew/uxn32) ⭐ 281 | 🐛 3 | 🌐 C | 📅 2025-12-27 - Windows emulator, written in C.
+* **Recommended for Windows**: [Uxn32](https://github.com/randrew/uxn32) ⭐ 282 | 🐛 3 | 🌐 C | 📅 2025-12-27 - Windows emulator, written in C.
 * [Nux](https://github.com/nf/nux) ⭐ 51 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - Emulator written in Go.
 * [zuxn](https://github.com/chmod222/zuxn) ⭐ 35 | 🐛 0 | 🌐 Zig | 📅 2026-10-04 - A Uxn library, emulator and assembler written in Zig.
 * [buxn](https://github.com/bullno1/buxn) ⭐ 25 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Multi platform emulator, written in C.
@@ -80,7 +80,7 @@
 
 ### Web
 
-* [Webuxn](https://github.com/aduros/webuxn) ⭐ 86 | 🐛 2 | 🌐 C | 📅 2021-07-02 - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
+* [Webuxn](https://github.com/aduros/webuxn) ⭐ 84 | 🐛 2 | 🌐 C | 📅 2021-07-02 - Lightweight port of the Uxn virtual machine to the web via WebAssembly.
 * [UxnWasm](https://github.com/remko/uxn.wasm) ⭐ 58 | 🐛 3 | 🌐 WebAssembly | 📅 2024-08-15 - WebAssembly implementation of the Uxn core.
 
 ### Misc/Cores
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
