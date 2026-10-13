@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "randrew",
                 "repo": "uxn32",
-                "stars": 283,
+                "stars": 282,
                 "topics": [
                   "c",
                   "uxn",
@@ -247,7 +247,7 @@
                 "open_issues": 5,
                 "owner": "asiekierka",
                 "repo": "uxnds",
-                "stars": 176,
+                "stars": 177,
                 "topics": [
                   "homebrew",
                   "uxn",
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:33:24.637Z",
+    "last_updated": "2026-10-13T17:17:44.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things from the community",
