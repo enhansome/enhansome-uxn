@@ -35,7 +35,7 @@
 * [zuxn](https://github.com/chmod222/zuxn) ⭐ 35 | 🐛 0 | 🌐 Zig | 📅 2026-10-04 - A Uxn library, emulator and assembler written in Zig.
 * [buxn](https://github.com/bullno1/buxn) ⭐ 25 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Multi platform emulator, written in C.
 * [UxnLua](https://github.com/DeltaF1/uxn-lua) ⭐ 20 | 🐛 1 | 🌐 Lua | 📅 2023-05-01 - Cross-platform emulator, written in Lua(Love2d).
-* [uxn9](https://github.com/krzysckh/uxn9) ⭐ 15 | 🐛 0 | 🌐 C | 📅 2026-06-10 - Native emulator for 9front. (no audio support)
+* [uxn9](https://github.com/krzysckh/uxn9) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2026-06-10 - Native emulator for 9front. (no audio support)
 * [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) ⭐ 15 | 🐛 0 | 🌐 Julia | 📅 2024-03-01 - Cross-platform emulator and assembler, written in Julia.
 * [uxn-rs](https://github.com/Liorst4/uxn-rs) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2023-10-13 - Emulator written in Rust.
 * [uxnk](https://github.com/makohn/uxnk) ⭐ 1 | 🐛 0 | 🌐 Kotlin | 📅 2026-03-29 - Emulator written in Kotlin.
@@ -210,12 +210,12 @@ Implementations of the core and console.
 
 ### Languages that target Uxn
 
-* [B](https://github.com/tsoding/b) ⭐ 717 | 🐛 48 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
+* [B](https://github.com/tsoding/b) ⭐ 716 | 🐛 48 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
 * [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 153 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
 * [Callisto](https://github.com/callisto-lang/compiler) ⭐ 77 | 🐛 0 | 🌐 D | 📅 2026-01-14 - Low level compiled programming language with a uxn backend.
 * [Finwë](https://github.com/kiedtl/finwe) ⭐ 50 | 🐛 19 | 🌐 Zig | 📅 2025-05-30 - A high-level, stack-based language that compiles to Uxn bytecode.
 * [Dotal](https://github.com/HParker/dotal) ⭐ 48 | 🐛 2 | 🌐 C | 📅 2022-11-22 - A small language designed to compile to the Uxn virtual machine.
-* [niënor](https://github.com/krzysckh/nienor) ⭐ 35 | 🐛 0 | 🌐 Scheme | 📅 2026-01-22 - Optimizing compiler for a Lisp dialect.
+* [niënor](https://github.com/krzysckh/nienor) ⭐ 36 | 🐛 0 | 🌐 Scheme | 📅 2026-01-22 - Optimizing compiler for a Lisp dialect.
 * [Conch](https://github.com/Armael/conch) ⭐ 24 | 🐛 0 | 🌐 OCaml | 📅 2021-11-06 - Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.
 * [Uxncle](https://github.com/CPunch/Uxncle) ⚠️ Archived - Compiler for a small subset of C to Uxn bytecode.
 * [nito](https://codeberg.org/wimvanderbauwhede/nito) - A compiler from Uxntal to C, written in Raku.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
