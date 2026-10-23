@@ -247,7 +247,7 @@
                 "open_issues": 5,
                 "owner": "asiekierka",
                 "repo": "uxnds",
-                "stars": 177,
+                "stars": 178,
                 "topics": [
                   "homebrew",
                   "uxn",
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T14:48:39.075Z",
+    "last_updated": "2026-10-23T14:34:58.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things from the community",
@@ -1410,7 +1410,7 @@
       "open_issues": 10,
       "owner": "hundredrabbits",
       "repo": "awesome-uxn",
-      "stars": 1052,
+      "stars": 1051,
       "topics": [
         "awesome-list",
         "uxn"

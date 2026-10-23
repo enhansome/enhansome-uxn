@@ -52,7 +52,7 @@
 
 ### Other systems
 
-* [Nintendo DS](https://github.com/asiekierka/uxnds) ⭐ 177 | 🐛 5 | 🌐 C | 📅 2026-03-22 - Complete.
+* [Nintendo DS](https://github.com/asiekierka/uxnds) ⭐ 178 | 🐛 5 | 🌐 C | 📅 2026-03-22 - Complete.
 * [Game Boy](https://github.com/tbsp/uxngb) ⭐ 51 | 🐛 0 | 🌐 Assembly | 📅 2023-05-09 - Incomplete.
 * [ESP32](https://github.com/max22-/uxn-esp32) ⭐ 42 | 🐛 1 | 🌐 C++ | 📅 2023-03-06 - Incomplete.
 * [FPGA](https://github.com/tsalvo/openfpga-varvara) ⭐ 33 | 🐛 6 | 🌐 Verilog | 📅 2026-09-06 - Partial.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
