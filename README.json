@@ -64,7 +64,7 @@
                 "id": 672108254,
                 "language": "Zig",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-04T23:32:53Z",
+                "last_commit": "2026-10-26T04:58:14Z",
                 "open_issues": 0,
                 "owner": "chmod222",
                 "repo": "zuxn",
@@ -247,7 +247,7 @@
                 "open_issues": 5,
                 "owner": "asiekierka",
                 "repo": "uxnds",
-                "stars": 178,
+                "stars": 177,
                 "topics": [
                   "homebrew",
                   "uxn",
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T14:02:57.553Z",
+    "last_updated": "2026-10-26T16:24:34.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things from the community",
