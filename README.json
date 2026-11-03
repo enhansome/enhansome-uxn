@@ -1260,7 +1260,7 @@
                 "open_issues": 0,
                 "owner": "callisto-lang",
                 "repo": "compiler",
-                "stars": 77,
+                "stars": 76,
                 "topics": [
                   "compiler",
                   "concatenative",
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:55:46.052Z",
+    "last_updated": "2026-11-03T17:28:31.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things from the community",
