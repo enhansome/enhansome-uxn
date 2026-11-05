@@ -38,7 +38,7 @@
 * [uxn9](https://github.com/krzysckh/uxn9) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2026-06-10 - Native emulator for 9front. (no audio support)
 * [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) ⭐ 15 | 🐛 0 | 🌐 Julia | 📅 2024-03-01 - Cross-platform emulator and assembler, written in Julia.
 * [uxn-rs](https://github.com/Liorst4/uxn-rs) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2023-10-13 - Emulator written in Rust.
-* [uxnk](https://github.com/makohn/uxnk) ⭐ 1 | 🐛 0 | 🌐 Kotlin | 📅 2026-03-29 - Emulator written in Kotlin.
+* [uxnk](https://github.com/makohn/uxnk) ⭐ 2 | 🐛 0 | 🌐 Kotlin | 📅 2026-03-29 - Emulator written in Kotlin.
 * **Recommended for Linux/Mac**: [Uxn2](https://git.sr.ht/~rabbits/uxn2) - Cross-platform emulator, written in C(SDL2).
 * **Recommended for Linux(no desktop)**: [uxn-lfb](https://git.phial.org/d6/uxn-lfb) - Graphical emulator, written in C.
 * [Uxn38](http://zzo38computer.org/fossil/uxn.ui) - Emulator written in C with SDL1.
@@ -52,7 +52,7 @@
 
 ### Other systems
 
-* [Nintendo DS](https://github.com/asiekierka/uxnds) ⭐ 178 | 🐛 5 | 🌐 C | 📅 2026-03-22 - Complete.
+* [Nintendo DS](https://github.com/asiekierka/uxnds) ⭐ 178 | 🐛 5 | 🌐 C | 📅 2026-11-05 - Complete.
 * [Game Boy](https://github.com/tbsp/uxngb) ⭐ 51 | 🐛 0 | 🌐 Assembly | 📅 2023-05-09 - Incomplete.
 * [ESP32](https://github.com/max22-/uxn-esp32) ⭐ 42 | 🐛 1 | 🌐 C++ | 📅 2023-03-06 - Incomplete.
 * [FPGA](https://github.com/tsalvo/openfpga-varvara) ⭐ 34 | 🐛 6 | 🌐 Verilog | 📅 2026-09-06 - Partial.
@@ -131,7 +131,7 @@ Implementations of the core and console.
 * [Flappy](https://github.com/keijiro/uxn-sketches/blob/main/flappy.tal) ⭐ 24 | 🐛 1 | 🌐 Shell | 📅 2021-09-26 - Implementation of a Flappy Bird-like game.
 * [Pinkie Run](https://github.com/Jaezmien/pinkie-run) ⭐ 13 | 🐛 0 | 📅 2024-01-16 - Pony-themed Endless Runner for Varvara.
 * [Lights Out](https://github.com/origedit/lights-out) ⭐ 6 | 🐛 0 | 🌐 Makefile | 📅 2024-03-17 - Puzzle game for Varvara.
-* [Worm](https://github.com/origedit/worm) ⭐ 5 | 🐛 0 | 🌐 Makefile | 📅 2024-03-26 - Dune themed snake game for Varvara.
+* [Worm](https://github.com/origedit/worm) ⭐ 6 | 🐛 0 | 🌐 Makefile | 📅 2024-03-26 - Dune themed snake game for Varvara.
 * [Oquonie](https://hundredrabbits.itch.io/oquonie) - Puzzle adventure game.
 * [Niju](https://hundredrabbits.itch.io/niju) - Hiragana and katakana learning game.
 * [Donsol](https://hundredrabbits.itch.io/donsol) - Card game about exploring a dungeon made of a standard 54 poker card set.
@@ -145,7 +145,7 @@ Implementations of the core and console.
 
 ### Operating systems/REPLs
 
-* [CollapseOS](https://github.com/schierlm/collapseos-uxn) ⭐ 78 | 🐛 0 | 🌐 Forth | 📅 2022-06-07 - Forth-based [operating system](http://collapseos.org/) for Varvara.
+* [CollapseOS](https://github.com/schierlm/collapseos-uxn) ⭐ 79 | 🐛 0 | 🌐 Forth | 📅 2022-06-07 - Forth-based [operating system](http://collapseos.org/) for Varvara.
 * [TalOS](https://github.com/UxnTalOS/talos) ⭐ 14 | 🐛 1 | 🌐 Smarty | 📅 2025-11-28 - A small Uxntal REPL and System Monitor/OS written in Uxntal.
 * [UF](http://www.call-with-current-continuation.org/uf/uf.html) - A traditional Forth system for Varvara.
 * [PotatoOS](http://wiki.xxiivv.com/site/potato.html) - A little desktop environment.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

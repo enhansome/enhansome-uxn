@@ -219,7 +219,7 @@
                 "open_issues": 0,
                 "owner": "makohn",
                 "repo": "uxnk",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:03:19.617Z"
@@ -243,7 +243,7 @@
                 "id": 368643879,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-03-22T10:06:12Z",
+                "last_commit": "2026-11-05T15:19:37Z",
                 "open_issues": 5,
                 "owner": "asiekierka",
                 "repo": "uxnds",
@@ -862,7 +862,7 @@
                 "open_issues": 0,
                 "owner": "origedit",
                 "repo": "worm",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:03:19.617Z"
@@ -890,7 +890,7 @@
                 "open_issues": 0,
                 "owner": "schierlm",
                 "repo": "collapseos-uxn",
-                "stars": 78,
+                "stars": 79,
                 "topics": [
                   "collapse-os",
                   "uxn",
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:41:08.763Z",
+    "last_updated": "2026-11-05T17:48:13.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things from the community",
@@ -1410,7 +1410,7 @@
       "open_issues": 10,
       "owner": "hundredrabbits",
       "repo": "awesome-uxn",
-      "stars": 1053,
+      "stars": 1054,
       "topics": [
         "awesome-list",
         "uxn"
