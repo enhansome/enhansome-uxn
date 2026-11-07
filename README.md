@@ -32,7 +32,7 @@
 
 * **Recommended for Windows**: [Uxn32](https://github.com/randrew/uxn32) ⭐ 285 | 🐛 3 | 🌐 C | 📅 2025-12-27 - Windows emulator, written in C.
 * [Nux](https://github.com/nf/nux) ⭐ 51 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - Emulator written in Go.
-* [zuxn](https://github.com/chmod222/zuxn) ⭐ 35 | 🐛 0 | 🌐 Zig | 📅 2026-10-26 - A Uxn library, emulator and assembler written in Zig.
+* [zuxn](https://github.com/chmod222/zuxn) ⭐ 36 | 🐛 0 | 🌐 Zig | 📅 2026-10-26 - A Uxn library, emulator and assembler written in Zig.
 * [buxn](https://github.com/bullno1/buxn) ⭐ 26 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Multi platform emulator, written in C.
 * [UxnLua](https://github.com/DeltaF1/uxn-lua) ⭐ 20 | 🐛 1 | 🌐 Lua | 📅 2023-05-01 - Cross-platform emulator, written in Lua(Love2d).
 * [uxn9](https://github.com/krzysckh/uxn9) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2026-06-10 - Native emulator for 9front. (no audio support)
@@ -52,7 +52,7 @@
 
 ### Other systems
 
-* [Nintendo DS](https://github.com/asiekierka/uxnds) ⭐ 178 | 🐛 5 | 🌐 C | 📅 2026-11-05 - Complete.
+* [Nintendo DS](https://github.com/asiekierka/uxnds) ⭐ 179 | 🐛 5 | 🌐 C | 📅 2026-11-05 - Complete.
 * [Game Boy](https://github.com/tbsp/uxngb) ⭐ 51 | 🐛 0 | 🌐 Assembly | 📅 2023-05-09 - Incomplete.
 * [ESP32](https://github.com/max22-/uxn-esp32) ⭐ 42 | 🐛 1 | 🌐 C++ | 📅 2023-03-06 - Incomplete.
 * [FPGA](https://github.com/tsalvo/openfpga-varvara) ⭐ 34 | 🐛 6 | 🌐 Verilog | 📅 2026-09-06 - Partial.
@@ -127,7 +127,7 @@ Implementations of the core and console.
 
 * [Fourtette](https://github.com/nf/fourtette) ⭐ 52 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - Tetris for Varvara.
 * [Shanghai](https://github.com/lynn/shanghai) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2023-06-06 - Mahjong Solitaire for Varvara.
-* [oneko-uxn](https://github.com/hikari-no-yume/oneko-uxn) ⭐ 30 | 🐛 0 | 🌐 C | 📅 2023-07-02 - A version of “Neko”, the classic desktop pet cat, with several characters.
+* [oneko-uxn](https://github.com/hikari-no-yume/oneko-uxn) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2023-07-02 - A version of “Neko”, the classic desktop pet cat, with several characters.
 * [Flappy](https://github.com/keijiro/uxn-sketches/blob/main/flappy.tal) ⭐ 24 | 🐛 1 | 🌐 Shell | 📅 2021-09-26 - Implementation of a Flappy Bird-like game.
 * [Pinkie Run](https://github.com/Jaezmien/pinkie-run) ⭐ 13 | 🐛 0 | 📅 2024-01-16 - Pony-themed Endless Runner for Varvara.
 * [Lights Out](https://github.com/origedit/lights-out) ⭐ 6 | 🐛 0 | 🌐 Makefile | 📅 2024-03-17 - Puzzle game for Varvara.
@@ -211,9 +211,9 @@ Implementations of the core and console.
 ### Languages that target Uxn
 
 * [B](https://github.com/tsoding/b) ⭐ 721 | 🐛 48 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
-* [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 153 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
+* [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 154 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
 * [Callisto](https://github.com/callisto-lang/compiler) ⭐ 76 | 🐛 0 | 🌐 D | 📅 2026-01-14 - Low level compiled programming language with a uxn backend.
-* [Finwë](https://github.com/kiedtl/finwe) ⭐ 50 | 🐛 19 | 🌐 Zig | 📅 2025-05-30 - A high-level, stack-based language that compiles to Uxn bytecode.
+* [Finwë](https://github.com/kiedtl/finwe) ⭐ 51 | 🐛 19 | 🌐 Zig | 📅 2025-05-30 - A high-level, stack-based language that compiles to Uxn bytecode.
 * [Dotal](https://github.com/HParker/dotal) ⭐ 48 | 🐛 2 | 🌐 C | 📅 2022-11-22 - A small language designed to compile to the Uxn virtual machine.
 * [niënor](https://github.com/krzysckh/nienor) ⭐ 36 | 🐛 0 | 🌐 Scheme | 📅 2026-01-22 - Optimizing compiler for a Lisp dialect.
 * [Conch](https://github.com/Armael/conch) ⭐ 24 | 🐛 0 | 🌐 OCaml | 📅 2021-11-06 - Compiler for a C-like language with Lisp-like syntax to Uxn bytecode.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
