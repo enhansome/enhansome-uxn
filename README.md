@@ -126,7 +126,7 @@ Implementations of the core and console.
 ### Games
 
 * [Fourtette](https://github.com/nf/fourtette) ⭐ 52 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - Tetris for Varvara.
-* [Shanghai](https://github.com/lynn/shanghai) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2023-06-06 - Mahjong Solitaire for Varvara.
+* [Shanghai](https://github.com/lynn/shanghai) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2023-06-06 - Mahjong Solitaire for Varvara.
 * [oneko-uxn](https://github.com/hikari-no-yume/oneko-uxn) ⭐ 31 | 🐛 0 | 🌐 C | 📅 2023-07-02 - A version of “Neko”, the classic desktop pet cat, with several characters.
 * [Flappy](https://github.com/keijiro/uxn-sketches/blob/main/flappy.tal) ⭐ 24 | 🐛 1 | 🌐 Shell | 📅 2021-09-26 - Implementation of a Flappy Bird-like game.
 * [Pinkie Run](https://github.com/Jaezmien/pinkie-run) ⭐ 13 | 🐛 0 | 📅 2024-01-16 - Pony-themed Endless Runner for Varvara.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
