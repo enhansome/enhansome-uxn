@@ -34,7 +34,7 @@
 * [Nux](https://github.com/nf/nux) ⭐ 51 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - Emulator written in Go.
 * [zuxn](https://github.com/chmod222/zuxn) ⭐ 36 | 🐛 0 | 🌐 Zig | 📅 2026-10-26 - A Uxn library, emulator and assembler written in Zig.
 * [buxn](https://github.com/bullno1/buxn) ⭐ 26 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Multi platform emulator, written in C.
-* [UxnLua](https://github.com/DeltaF1/uxn-lua) ⭐ 20 | 🐛 1 | 🌐 Lua | 📅 2023-05-01 - Cross-platform emulator, written in Lua(Love2d).
+* [UxnLua](https://github.com/DeltaF1/uxn-lua) ⭐ 21 | 🐛 1 | 🌐 Lua | 📅 2023-05-01 - Cross-platform emulator, written in Lua(Love2d).
 * [uxn9](https://github.com/krzysckh/uxn9) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2026-06-10 - Native emulator for 9front. (no audio support)
 * [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) ⭐ 15 | 🐛 0 | 🌐 Julia | 📅 2024-03-01 - Cross-platform emulator and assembler, written in Julia.
 * [uxn-rs](https://github.com/Liorst4/uxn-rs) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2023-10-13 - Emulator written in Rust.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
