@@ -34,7 +34,7 @@
 * [Nux](https://github.com/nf/nux) ⭐ 51 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - Emulator written in Go.
 * [zuxn](https://github.com/chmod222/zuxn) ⭐ 36 | 🐛 0 | 🌐 Zig | 📅 2026-10-26 - A Uxn library, emulator and assembler written in Zig.
 * [buxn](https://github.com/bullno1/buxn) ⭐ 26 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Multi platform emulator, written in C.
-* [UxnLua](https://github.com/DeltaF1/uxn-lua) ⭐ 21 | 🐛 1 | 🌐 Lua | 📅 2023-05-01 - Cross-platform emulator, written in Lua(Love2d).
+* [UxnLua](https://github.com/DeltaF1/uxn-lua) ⭐ 20 | 🐛 1 | 🌐 Lua | 📅 2023-05-01 - Cross-platform emulator, written in Lua(Love2d).
 * [uxn9](https://github.com/krzysckh/uxn9) ⭐ 16 | 🐛 0 | 🌐 C | 📅 2026-06-10 - Native emulator for 9front. (no audio support)
 * [UxnJulia](https://github.com/Ismael-VC/Varvara.jl) ⭐ 15 | 🐛 0 | 🌐 Julia | 📅 2024-03-01 - Cross-platform emulator and assembler, written in Julia.
 * [uxn-rs](https://github.com/Liorst4/uxn-rs) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2023-10-13 - Emulator written in Rust.
@@ -211,7 +211,7 @@ Implementations of the core and console.
 ### Languages that target Uxn
 
 * [B](https://github.com/tsoding/b) ⭐ 725 | 🐛 48 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
-* [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 154 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
+* [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 155 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
 * [Callisto](https://github.com/callisto-lang/compiler) ⭐ 76 | 🐛 0 | 🌐 D | 📅 2026-01-14 - Low level compiled programming language with a uxn backend.
 * [Finwë](https://github.com/kiedtl/finwe) ⭐ 51 | 🐛 19 | 🌐 Zig | 📅 2025-05-30 - A high-level, stack-based language that compiles to Uxn bytecode.
 * [Dotal](https://github.com/HParker/dotal) ⭐ 48 | 🐛 2 | 🌐 C | 📅 2022-11-22 - A small language designed to compile to the Uxn virtual machine.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
