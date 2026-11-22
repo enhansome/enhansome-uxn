@@ -1260,7 +1260,7 @@
                 "open_issues": 0,
                 "owner": "callisto-lang",
                 "repo": "compiler",
-                "stars": 76,
+                "stars": 77,
                 "topics": [
                   "compiler",
                   "concatenative",
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T17:02:49.805Z",
+    "last_updated": "2026-11-22T17:33:10.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome things from the community",
@@ -1410,7 +1410,7 @@
       "open_issues": 10,
       "owner": "hundredrabbits",
       "repo": "awesome-uxn",
-      "stars": 1060,
+      "stars": 1061,
       "topics": [
         "awesome-list",
         "uxn"
