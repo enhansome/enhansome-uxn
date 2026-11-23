@@ -30,7 +30,7 @@
 
 ### Desktop
 
-* **Recommended for Windows**: [Uxn32](https://github.com/randrew/uxn32) ⭐ 286 | 🐛 3 | 🌐 C | 📅 2025-12-27 - Windows emulator, written in C.
+* **Recommended for Windows**: [Uxn32](https://github.com/randrew/uxn32) ⭐ 288 | 🐛 3 | 🌐 C | 📅 2025-12-27 - Windows emulator, written in C.
 * [Nux](https://github.com/nf/nux) ⭐ 51 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - Emulator written in Go.
 * [zuxn](https://github.com/chmod222/zuxn) ⭐ 36 | 🐛 0 | 🌐 Zig | 📅 2026-10-26 - A Uxn library, emulator and assembler written in Zig.
 * [buxn](https://github.com/bullno1/buxn) ⭐ 27 | 🐛 1 | 🌐 C | 📅 2025-12-30 - Multi platform emulator, written in C.
@@ -113,7 +113,7 @@ Implementations of the core and console.
 
 ### Utilities
 
-* [Varaboy](https://github.com/tbsp/varaboy) ⭐ 56 | 🐛 1 | 📅 2024-06-07 - Gameboy Emulator.
+* [Varaboy](https://github.com/tbsp/varaboy) ⭐ 57 | 🐛 1 | 📅 2024-06-07 - Gameboy Emulator.
 * [Notepad](https://wiki.xxiivv.com/site/notepad.html) - Notepad.
 * [Calendar](https://wiki.xxiivv.com/site/calendar.html) - Calendar.
 * [Theme](https://wiki.xxiivv.com/site/theme.html) - Theme editor.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
