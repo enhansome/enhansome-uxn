@@ -210,8 +210,8 @@ Implementations of the core and console.
 
 ### Languages that target Uxn
 
-* [B](https://github.com/tsoding/b) ⭐ 727 | 🐛 49 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
-* [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 155 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
+* [B](https://github.com/tsoding/b) ⭐ 728 | 🐛 49 | 🌐 Rust | 📅 2025-10-29 - Compiler for the B Programming Language implemented in Crust, has support for uxn target.
+* [chibicc-uxn](https://github.com/lynn/chibicc) ⭐ 156 | 🐛 8 | 🌐 C | 📅 2026-03-14 - A C compiler for Uxn, written in C.
 * [Callisto](https://github.com/callisto-lang/compiler) ⭐ 77 | 🐛 0 | 🌐 D | 📅 2026-01-14 - Low level compiled programming language with a uxn backend.
 * [Finwë](https://github.com/kiedtl/finwe) ⭐ 51 | 🐛 19 | 🌐 Zig | 📅 2025-05-30 - A high-level, stack-based language that compiles to Uxn bytecode.
 * [Dotal](https://github.com/HParker/dotal) ⭐ 48 | 🐛 2 | 🌐 C | 📅 2022-11-22 - A small language designed to compile to the Uxn virtual machine.
@@ -234,4 +234,4 @@ Submit patches using [`git send-email`](https://git-send-email.io/) to the [\~ra
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
